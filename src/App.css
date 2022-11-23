@@ -1,0 +1,24 @@
+.true {
+  margin-left: 50px;
+  margin-right: auto;
+  display: none;
+}
+.false {
+  margin-left: 50px;
+  margin-right: auto;
+}
+
+.letterBottom {
+  border-bottom: 3px solid black;
+  margin-right: 10px;
+  margin-top: 30px;
+}
+
+.restartButton {
+  background-color: red !important;
+  margin-top: 50px;
+}
+
+.winLose {
+  margin-top: 40px;
+}
